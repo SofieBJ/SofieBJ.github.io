@@ -1,0 +1,121 @@
+p {
+	color: #35000d;
+	background-color: pink;
+	font-size: 18px;
+
+}
+
+h1{
+	color:white;
+}
+
+li{
+	color: white;
+	font-size: 20px;
+	text-shadow: 2px 2px black;
+	list-style-type: none;
+}
+
+body{
+	background-color: lightblue;
+	font-family: 'Amatic CS', cursive;
+	text-align: center;
+
+}
+
+li a{
+	font-family: Arial;
+	color: white;
+	list-style-position: center;
+}
+
+li >a:hover {
+	color: pink;
+}
+
+
+.overskrift{
+	background-color: transparent;
+	font-size: 30px;
+	color: white;
+}
+
+
+
+#cool {
+	background-color: purple;
+	font-size: 50px;
+	color: white;
+}
+#cooler{
+	background-color: purple;
+	font-size: 15px;
+	color: white;
+
+}
+ol { list-style-type: none; text-align: center; }
+
+.navbar-inverse{
+	background: pink;
+}
+
+.navbar-inverse .navbar-brand{
+	color: white; 
+}
+.navbar-inverse .navbar-nav > li > a{
+	color: white;
+	text-decoration: bold;
+	font-family: 'Amatic CS', cursive;
+	font-size: 150%;
+}
+.centered-text{
+	text-align: center;
+}
+
+#menyval{
+	background-color: hotpink;
+}
+
+#menyval1{
+	background-color: #dd4f72;
+}
+#menyval2{
+	background-color: #e0355f;
+
+}
+#menyval3{
+	background-color: #d31f4b
+
+}
+#fotboll{
+	background-color: blue;
+	color: white;
+}
+#spel{
+	background-color:#44063f ;
+	color: white;
+}
+#glad{
+	background-color: #c61919;
+	color: grey;
+}
+
+.navbar-inverse .navbar-nav >li >a:hover{
+	color: #d30c3e;
+}
+
+.body{
+	background-image: url("../bilder/glitter.jpg");
+	background-size: cover; 
+	background-repeat: no-repeat;
+	min-height: 100vh;
+	position: relative;	
+}
+
+.bakgrund{
+	background-image: url("../bilder/glad.jpg");
+	background-size: cover; 
+	background-repeat: no-repeat;
+	min-height: 100vh;
+	position: relative;	
+}

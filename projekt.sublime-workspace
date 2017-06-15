@@ -1,0 +1,452 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"list-style-position"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"h",
+				"h5	Tag"
+			],
+			[
+				"Dise",
+				"Disease"
+			],
+			[
+				"read",
+				"readads"
+			],
+			[
+				"AD",
+				"AD1CON1bits"
+			],
+			[
+				"display",
+				"display_string"
+			],
+			[
+				"dis",
+				"display_string"
+			],
+			[
+				"m",
+				"mytime"
+			],
+			[
+				"maxt",
+				"maxtime"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2669,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "menyval3.html",
+			"settings":
+			{
+				"buffer_size": 2814,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "menyval1.html",
+			"settings":
+			{
+				"buffer_size": 3265,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "menyval2.html",
+			"settings":
+			{
+				"buffer_size": 2689,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 544,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Sofie/Desktop/hemsida/mallar/blank.html",
+		"/C/Users/Sofie/Desktop/hemsida/mallar/meny-topp.html",
+		"/C/Users/Sofie/Desktop/hejehej.html",
+		"/C/Users/Sofie/Desktop/hemsida/menyval3.html",
+		"/C/Users/Sofie/Desktop/hemsida/menyval2.html",
+		"/C/Users/Sofie/Desktop/hemsida/index.html",
+		"/C/Users/Sofie/Desktop/hemsida/menyval1.html",
+		"/C/Users/Sofie/Desktop/hemsida/mallar/meny-sida.html",
+		"/C/wamp64/www/dbaslab2/updateTreatments.php",
+		"/C/wamp64/www/dbaslab2/fakeData.php",
+		"/C/wamp64/www/dbaslab2/updateState.php",
+		"/C/wamp64/www/dbaslab2/updateTaken.php",
+		"/C/wamp64/www/dbaslab2/patient.php",
+		"/C/wamp64/www/dbaslab2/selectPatient.php",
+		"/C/wamp64/www/dbaslab2/updatePatient.php",
+		"/C/wamp64/www/dbaslab2/updateQueueTime.php",
+		"/C/wamp64/www/dbaslab2/updateDrugs.php",
+		"/C/wamp64/www/dbaslab2/selectQueue.php",
+		"/C/wamp64/www/dbaslab2/select.php",
+		"/C/wamp64/www/dbaslab2/insert.php",
+		"/C/wamp64/www/dbaslab2/index.php",
+		"/C/Users/Sofie/Desktop/databasen/main.html",
+		"/C/wamp64/www/dbaslab2/drugs.php",
+		"/C/wamp64/www/dbaslab2/doctor.php",
+		"/C/wamp64/www/dbaslab2/deleteFakeTables.php",
+		"/C/wamp64/www/dbaslab2/delete.php",
+		"/C/wamp64/www/dbaslab2/connectdb.php",
+		"/C/wamp64/www/dbaslab2/assignTeam.php",
+		"/C/wamp64/www/dbaslab2/arrival.php",
+		"/C/wamp64/www/dbaslab2/main.html",
+		"/C/wamp64/www/dbaslab2/selectTeams.php",
+		"/C/Users/Sofie/Desktop/DTEK/dtek17/NyttochFräscht/#Test",
+		"/C/Users/Sofie/Desktop/dbaslab2.rar",
+		"/C/Users/Sofie/Desktop/DTEK/dtek17/NyttochFräscht/main.c",
+		"/C/Users/Sofie/Desktop/DTEK/dtek17/SofiesLekstuga/main.c",
+		"/C/Users/Sofie/Desktop/DTEK/nlsb-dtek-project/code/analogInput.c",
+		"/C/Users/Sofie/Desktop/DTEK/nlsb-dtek-project/code/sofie.c",
+		"/C/Users/Sofie/Desktop/DTEK/nlsb-dtek-newproject/time4int/mipslabmain.c",
+		"/C/Users/Sofie/Desktop/DTEK/nlsb-dtek-newproject/time4int/mipslabfunc.c",
+		"/C/Users/Sofie/Desktop/test.c",
+		"/C/Users/Sofie/Desktop/DTEK/nlsb-dtek-newproject/time4int/mipslabwork.c",
+		"/C/Users/Sofie/Desktop/DTEK/nlsb-dtek-newproject/hello-temperature/main.c",
+		"/C/Users/Sofie/Desktop/DTEK/nlsb-dtek-3/code/time4io/mipslabwork.c",
+		"/C/Users/Sofie/Desktop/DTEK/nlsb-dtek-3/code/time4timer/mipslabwork.c",
+		"/C/Users/Sofie/Desktop/DTEK/nlsb-dtek-3/code/time4timer/mipslabmain.c",
+		"/C/Users/Sofie/Desktop/DTEK/nlsb-dtek-3/code/time4timer/labwork.S",
+		"/C/Users/Sofie/Desktop/DTEK/nlsb-dtek-3/code/time4io/time4mips/mipslabmain.c",
+		"/C/Users/Sofie/Desktop/DTEK/nlsb-dtek-3/code/time4io/time4mips/mipslabwork.c",
+		"/C/Users/Sofie/Desktop/DTEK/nlsb-dtek-3/code/time4io/time4mips/labwork.S",
+		"/C/Users/Sofie/Desktop/DTEK/nlsb-dtek-3/code/time4io/time4io.c",
+		"/C/Users/Sofie/Desktop/DTEK/nlsb-dtek-project/New Project/hello-temperature/mipslab.h",
+		"/C/Users/Sofie/Desktop/DTEK/nlsb-dtek-project/New Project/hello-temperature/main.c",
+		"/C/Users/Sofie/Desktop/DTEK/Project/time4int/mipslabwork.c",
+		"/C/Users/Sofie/Desktop/DTEK/nlsb-dtek-project/code/time4int/time4io.c",
+		"/C/Users/Sofie/Desktop/DTEK/nlsb-dtek-project/code/time4int/mipslabfunc.c",
+		"/C/Users/Sofie/Desktop/DTEK/nlsb-dtek-project/code/time4int/mipslabmain.c",
+		"/C/Users/Sofie/Desktop/DTEK/nlsb-dtek-project/code/time4int/mipslabwork.c",
+		"/C/Users/Sofie/Desktop/DTEK/nlsb-dtek-project/code/time4int/mipslabdata.c",
+		"/C/Users/Sofie/Desktop/DTEK/nlsb-dtek-project/code/time4int/stubs.c",
+		"/C/Users/Sofie/Desktop/DTEK/nlsb-dtek-project/code/time4int/labwork.S",
+		"/C/Users/Sofie/Desktop/DTEK/nlsb-dtek-3/code/time4int/labwork.S",
+		"/C/Users/Sofie/Desktop/DTEK/nlsb-dtek-3/code/time4int/mipslabwork.c",
+		"/C/Users/Sofie/Desktop/DTEK/nlsb-dtek-3/code/time4int/vectors.S",
+		"/C/Users/Sofie/Desktop/DTEK/nlsb-dtek-2/code/sieves-heap.c",
+		"/C/Users/Sofie/Desktop/DTEK/nlsb-dtek-2/code/prime.c",
+		"/C/Users/Sofie/Desktop/DTEK/nlsb-dtek-2/code/sieves.c",
+		"/C/Users/Sofie/Desktop/DTEK/nlsb-dtek-2/code/uno32tests/main.c",
+		"/C/Users/Sofie/Desktop/DTEK/nlsb-dtek-2/code/pointers.c",
+		"/C/Python34/Tilda/Labb 6/incorrect.txt",
+		"/C/Python34/Labb 6/sample.txt",
+		"/C/Users/Sofie/Desktop/labb1.java",
+		"/C/Users/Sofie/Desktop/java/HelloWorldApp.java",
+		"/C/Users/Sofie/Downloads/Lab2_inlamning.m",
+		"/C/Users/Sofie/Downloads/Lab2_inlamning (1).m",
+		"/C/Users/Sofie/Downloads/Lab3.m",
+		"/C/Users/Sofie/Downloads/Labb1.m",
+		"/C/Users/Sofie/Downloads/WIN_32 (1)/WIN_32/products_viewed.json",
+		"/C/Users/Sofie/Downloads/WIN_32 (1)/WIN_32/products_bought.txt",
+		"/C/Users/Sofie/Downloads/WIN_32 (1)/WIN_32/Topics.txt",
+		"/C/Users/Sofie/Documents/GitHub/Sofeochjoardinnerplanner/dinnerpreparation.html",
+		"/C/Users/Sofie/Downloads/eclipse-java-luna-SR2-win32-x86_64/eclipse/readme/readme_eclipse.html",
+		"/C/Users/Sofie/Documents/GitHub/Sofeochjoardinnerplanner/dinneroverview.html",
+		"/C/Users/Sofie/Documents/GitHub/Sofeochjoardinnerplanner/stylin.css",
+		"/C/Users/Sofie/Documents/GitHub/Sofeochjoardinnerplanner/selectdishes1.html",
+		"/C/Users/Sofie/Documents/GitHub/Sofeochjoardinnerplanner/screenafter.html",
+		"/C/Users/Sofie/Documents/GitHub/Sofeochjoardinnerplanner/lasagna1.html",
+		"/C/Users/Sofie/Documents/GitHub/Sofeochjoardinnerplanner/homepage1.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sofiei",
+			"väntar"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 2669,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1276,
+								1276
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 342.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "menyval3.html",
+					"settings":
+					{
+						"buffer_size": 2814,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2788,
+								2788
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 918.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "menyval1.html",
+					"settings":
+					{
+						"buffer_size": 3265,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2761,
+								2761
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 918.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "menyval2.html",
+					"settings":
+					{
+						"buffer_size": 2689,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2619,
+								2618
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 522.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "css/style.css",
+					"settings":
+					{
+						"buffer_size": 544,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								234,
+								234
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 54.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

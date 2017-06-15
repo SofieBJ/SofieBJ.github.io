@@ -1,0 +1,64 @@
+<!-- Tala om att det är html-dokument -->
+<!DOCTYPE html>
+
+<!-- Alla element ska finnas inom html-taggen -->
+<html>
+<!-- I head placeras saker som inte är innehåll, tex css-filer och javascript -->
+<head>
+    <!-- Dessa 3 meta-taggar måste vara först i head för att alla tecken (åäö) och Bootstrap ska fungera korrekt -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Koppla in Bootstrap css -->
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+    <!-- Koppla in egen CSS-fil style.css OBS! Ha den som sista css-fil -->
+    <link rel="stylesheet" type ="text/css" href="css/style.css">
+
+    <!-- Koppla in och JQuery Bootstrap javascript -->
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+
+    <!-- Koppla in egen JavaScript-fil funktion.js OBS! Ha den som sista js-fil -->
+    <script type="text/javascript" src="js/funktion.js"></script>
+    
+    <!-- I title skriver du titeln som webbläsarfönstret ska ha när den här sidan besöks-->
+    <title>Fotboll</title>
+</head>
+
+<!-- I body finns allt innehåll på hemsidan -->
+<body>
+
+    <!-- I header finns allt som är sidans toppdel där rubrik och menu ofta finns -->
+    <header>
+        <!-- I nav finns alla länkar eller knappar för navigering, tex en menyrad -->
+            <nav id="fotboll" class="nav navbar-inverse navbar-static-top">
+                <div class="container">
+                    <a class="navbar-brand" href="index.html">Min hemsida</a>
+                    <ul class="nav navbar-nav">
+                        <!-- Byt ut # i href mot filen som ska länkas till, tex djur.html -->
+                        <li><a href="menyval1.html">FOTBOLL</a></li>
+                        <li><a href="menyval2.html">MIN RESA</a></li>
+                        <li><a href="menyval3.html">MINA SPEL</a></li>
+                    </ul>
+                </div>
+            </nav>
+    </header>
+
+    <!-- I main finns huvudsakliga innehållet, exempelvis blogginlägg eller topplistor -->
+    <main>
+        <h2>Fotbollsspelare genom tiderna</h2>
+        <h4>Här är en lista på de bästa fotbollsspelarna enligt mig:</h4>
+
+        <ol>
+            <li> <a href="https://sv.wikipedia.org/wiki/Manuel_Neuer">1. Manuel Neuer, målvakt i Bayern München</a><br> <img width="560" height="315" src="bilder/neuer.jpg"></li>
+            <li><a href="https://sv.wikipedia.org/wiki/Hanna_Ljungberg">2. Hanna Ljungberg, legendar i Umeå IK</a><br><img width="560" height="315" src="bilder/hanna.jpg"></li>
+            <li><a href="http://www.svenskafans.com/grasplan/mot-de-nya-hoyzer-girlzen-473549.aspx">3. Sofie Borck Janeheim, fotbollsspelare i KTH FC</a><br> <img width="560" height="315" src="bilder/sofiei.jpg" alt="En bild på Sofie när hon spelar fotboll"></li>
+        </ol>
+        <p>Om du vill bli lika bra som dessa, kan det vara bra att först kunna spelreglerna.<br> Klicka på knappen om du vill prova!</p>
+       <button><a href="http://fogis.se/domare/regelprovsgeneratorn/">Lär mig mer om fotboll</a></button>
+    </main>
+</body>
+<footer>Denna hemsida är ett utbildningsprojekt.
+</footer>
+</html>
